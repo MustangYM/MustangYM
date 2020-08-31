@@ -3,7 +3,4 @@
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/MustangYM/count.svg" /><br>
-  <img src="https://gitee.com/MustangYM/PrivateImages/raw/master/2020//maruko.gif" width="100">
-  <img align="left" src="https://gitee.com/MustangYM/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
-  <img align="right" src="https://gitee.com/MustangYM/PrivateImages/raw/master/2020//shin_chan.gif" width="100">
 </p>
