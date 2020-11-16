@@ -1,3 +1,3 @@
-I don’t have a Mustang, but my dream is to drive my Mustang on Route 66.
-<p align="center">
+I don’t have a Mustang, but my dream is to drive my Mustang GT350 on Route 66.
+<p align="left">
 <img src="https://gitee.com/MustangYM/we-chat-extension-source/raw/master/Pictures/mustang1965.jpg" width="600px"/>
