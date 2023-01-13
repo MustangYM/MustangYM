@@ -1,4 +1,2 @@
-
-I don’t have a Mustang, but my dream is to drive my Mustang on Route 66.
-<p align="left">
-<img src="https://gitee.com/MustangYM/we-chat-extension-source/raw/master/Pictures/mustang1965.jpg" width="600px"/>
+I used to work for YYLive and Alibaba, dedicated to the forward and reverse research of iOS and macOS，
+and now I am dedicated to LLVM and OLLVM, just having fun like a kid loves a toy.
