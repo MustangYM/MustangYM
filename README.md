@@ -3,4 +3,3 @@ I used to be obsessed with iOS and macOS reverse engineering and security obfusc
 
 Skills：C++、Objective-C 、Java、Swift、ARM、Shell、Python、Js、Dart
 
-实用主义外加一点点兴趣是第一动力，能逮耗子的都是好猫。
