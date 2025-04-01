@@ -1,5 +1,4 @@
+With a solid foundation in iOS and macOS reverse engineering and security obfuscation techniques, I bring years of experience in developing Windows applications with PySide. I am now dedicated to server-side Java and web development as an independent developer.
+I am open to collaboration opportunities—please feel free to reach out.
 
-I used to be obsessed with iOS and macOS reverse engineering and security obfuscation combat. I developed Windows programs using Pyside. Now I am committed to server-side Java and Web-side development. I am now an independent developer. If you want to cooperate, please contact me .
-
-Skills：C++、Objective-C 、Java、Swift、ARM、Shell、Python、Js、Dart
-
+Technical Skills: C++, Objective-C, Java, Swift, ARM (Assembly), Shell Scripting, Python, JavaScript, Dart
